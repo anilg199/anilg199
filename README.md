@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **JARVIS**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Python, C and JAVA language ,HTML, CSS, Javascript**
 
