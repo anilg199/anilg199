@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Gupta</h1>
-<h3 align="center">A passionate Web developer and AI learner from India</h3>
+<h3 align="center">A Passionate Web Developer and AI learner </h3>
 <img align="right" alt="Coding" width="400" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-gear-1-converted-2019-10.gif">
 
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Python, C and JAVA language ,HTML, CSS, Javascript**
+- 💬 Ask me about **Python, SQl, HTML, CSS, Javascript, JAVA ,**
 
 - 📫 How to reach me **anilguptatamkuhi@gmail.com**
 
