@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Gupta</h1>
-<h3 align="center">A Web Developer and AI learner </h3>
+<h3 align="center">A Web Developer and AI Learner </h3>
 <img align="right" alt="Coding" width="400" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-gear-1-converted-2019-10.gif">
 
 
