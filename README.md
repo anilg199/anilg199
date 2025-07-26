@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java Full-Stack Development**
 
-- 💬 Ask me about ** Java, Spring boot, MySql, MongoDB, React, Node.js**
+- 💬 Ask me about **Java, Spring boot, MySql, MongoDB, React, Node.js**
 
 - 📫 How to reach me **anilguptatamkuhi@gmail.com**
 
