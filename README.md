@@ -12,9 +12,9 @@
 
 - 🔭 Visit our [Portfolio website](https://anilg199.github.io/portfolio/)
 
-- 🌱 I’m currently learning **MERN Full-Stack Development**
+- 🌱 I’m currently learning **Java Full-Stack Development**
 
-- 💬 Ask me about **Web Development, Python, SQL**
+- 💬 Ask me about ** Java, Spring boot, MySql, MongoDB, React, Node.js**
 
 - 📫 How to reach me **anilguptatamkuhi@gmail.com**
 
